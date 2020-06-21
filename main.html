@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>todo</title>
+   <h1 class="shadow p-3 mb-5 bg-white rounded">TODO LIST</h1>
+</head>
+<body>
+    <br>
+   
+ 
+   <br>
+   
+    <div id="app" class="shadow p-3 mb-5 bg-white rounded" role="alert" >
+      
+        <div>
+            <span class="border border-primary">
+            <form name="todos" method="post" action="" v-on:submit.prevent="addTask">
+                <center> <input v-model="todos"></center>
+               <br><center> <button  class="btn btn-primary" text="button"type="submit" >Add</button></center>
+               </form>
+
+               <br>
+               <div class="todo-lists" v-if="lists.length" >
+               
+                <ol>
+                  <li v-for="list in lists" :key="list.id">
+                <span class="title" v-bind:class="{completed: list.isComplete}">{{list.title}}</span> 
+                    </li>
+                </ol>
+             
+               </div>
+               </span>
+           </div>
+      
+    </div>
+
+
+
+</body>
+
+  <div class="footer">
+  <p>© 2020 copyright: shadman shaikh</p>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="vue.js"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+<link rel="stylesheet" href="style.css">
+
+</html>

@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    background-color: beige;
+}
+body{
+    background-color: beige;
+    font-size: medium;
+}
+h3{
+    width: 200px;
+}
+footer{
+    
+    width: 100%;
+} 
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(63, 151, 151);
+    color: white;
+    text-align: center;
+    font-size: medium;
+  }
