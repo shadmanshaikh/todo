@@ -1,16 +1,17 @@
-# todo
+# Todo List web app
 
 This is a todo web app , is written in vue, bootstrap & html5 ,  well you know what it is but  it needs alot of tweaks to be tinker upon! feel free to use this for any fun projects and also if want to introduce anay feature to the wen app let me know :thumbsup: , my Instagram handle @shady._xo
 
 
  # ---- HOW TO RUN THIS ----
  1. NO neccesary requirements , just have any kind of pc .
- 2. for bretter look run this on  live server 
- 3. use max view possible for the browser
- 
+ 2. For better look run this on  live server 
+ 3. Use max view possible for the browser
+ 4. For any mistakes , just press crtl+R for refresh 
+ 5. Keep your net on for bootstrap & vue 
  
   # -----IMPROVMENTS------
  
  1. The remove funtion should be added in vue.js
- 2. also beautyfing the theme of web app
- 3. lastly enjoy !!!!
+ 2. Also beautyfing the theme of web app
+ 3. Lastly enjoy !!!!
