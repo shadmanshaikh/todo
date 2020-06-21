@@ -4,8 +4,8 @@ This is a todo web app , is written in vue, bootstrap & html5 ,  well you know w
 
 
  # ---- HOW TO RUN THIS ----
- 1. NO neccesary requirements , just have any kind of pc .
- 2. For better look run this on  live server 
+ 1. NO neccesary requirements , just clone this 
+ 2. Run this on live server 
  3. Use max view possible for the browser
  4. For any mistakes , just press crtl+R for refresh 
  5. You should have a stable internet for bootstrap & vue 
