@@ -1,6 +1,6 @@
 # todo
 
-This is a todo web app , is written in vue, bootstrap & html5 ,  well you know what it is but  it needs alot of tweaks to be tinker upon! feel free to use this for any fun projects and also if want to introduce anay feature to the wen app let me know :thumpsup: , my Instagram handle @shady._xo
+This is a todo web app , is written in vue, bootstrap & html5 ,  well you know what it is but  it needs alot of tweaks to be tinker upon! feel free to use this for any fun projects and also if want to introduce anay feature to the wen app let me know :thumbsup: , my Instagram handle @shady._xo
 
 
  # ---- HOW TO RUN THIS ----
